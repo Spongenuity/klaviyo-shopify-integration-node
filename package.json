@@ -1,0 +1,25 @@
+{
+  "name": "klaviyo-shopify-integration-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spongenuity/klaviyo-shopify-integration-node.git"
+  },
+  "author": "samer.dabra@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spongenuity/klaviyo-shopify-integration-node/issues"
+  },
+  "homepage": "https://github.com/Spongenuity/klaviyo-shopify-integration-node#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1",
+    "shopify-api-node": "^3.4.4",
+    "unix-timestamp": "^0.2.0"
+  }
+}
